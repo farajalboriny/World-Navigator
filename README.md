@@ -1,3 +1,4 @@
+Players will login to the website and play the game.
 The map consists of 50 rooms and 5 winning doors.
 
 Each room can be thought of as a logical square and has four walls, a wall can have a painting, a chest, a mirror, a door, a seller or is 
@@ -74,7 +75,6 @@ During the game, If two players happen to meet, they must fight and the loser im
 The fighting rules are simple: the player with the more gold wins ( 10 gold coins for each key and 2 gold coins for each flashlight). In a case of a tie, 
 the two players play rock-paper-scissor to choose a winner. Furthermore, the winner player obtains all the items of the loser player. 
 The game ends when a player exits a special door,  the game has only one winner.
-
 A player may give up and exit the game at anytime. In such a case,
 player who wants to give up throw all of his/her items on the floor.
 Afterwards, another player who happened to walk in into this room will automatically obtain all the items on the floor.
